@@ -1,13 +1,15 @@
 <template>
-  <div >
-    <h1>hello22222222222</h1>
-  </div>
+    <div>
+        <h1>登录页面</h1>
+    </div>
+
 </template>
 
 <script>
-export default {
-  name: 'HelloWorld',
-}
+
+    export default {
+        name: 'Login',
+    }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
